@@ -7,9 +7,9 @@ Hi! I'm **Mahmoud Moussa** and I have created this project to demonstrate the us
  1. First you need python to be installed on your system. you can download it from the official website **"https://www.python.org/downloads/"**.
  2. Next you need to install **scrapy** and **playwright** using **pip** by entering the following commands in a terminal.
  
-    >pip install scrapy
-    >pip install scrapy_playwright
-    >playwright install
+    - `pip install scrapy`
+    - `pip install scrapy_playwright`
+    - `playwright install`
 
 # Usage
 
